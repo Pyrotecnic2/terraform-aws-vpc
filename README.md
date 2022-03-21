@@ -1,2 +1,8 @@
-# terraform-aws-vpc
-vpc with terraform IAAC
+# terraform-aws-vpc module
+
+### Usage:
+'''
+module "vpc" {
+    source = ""
+    }
+    '''
