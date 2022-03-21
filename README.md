@@ -3,6 +3,7 @@
 ### Usage:
 '''
 module "vpc" {
-    source = ""
-    }
+  source  = "Pyrotecnic2/vpc/aws"
+  version = "0.0.1"
+}
     '''
